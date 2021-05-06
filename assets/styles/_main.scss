@@ -1,0 +1,52 @@
+$black : #4f4f4f;
+$white : #fff;
+$bg : #F5F5FB;
+$border : #ccc;
+$bg-form : #FBFBFB;
+$blue : #3273DC;
+$purple : #9B51E0;
+$orange : #F2994A;
+$sky : #209CEE;
+$gray : #ebebeb;
+$red : #FF3860;
+$yellow : #FFDD57;
+$dark-gray : #4F4F4F;
+$green : #27AE60;
+
+.text {
+  &-black {color: $black}
+  &-white {color: $white}
+  &-border {color: $border}
+  &-blue {color: $blue}
+  &-purple {color: $purple}
+  &-orange {color: $orange}
+  &-sky {color: $sky}
+  &-gray {color: $gray}
+  &-red {color: $red}
+  &-yellow {color: $yellow}
+  &-dark-gray {color: $dark-gray}
+  &-green {color: $green}
+}
+
+.bg {
+  &-black {background : $black}
+  &-white {background : $white}
+  &-primar {background : $bg}
+  &-border {background : $border}
+  &-form {background : $bg-form}
+  &-blue {background : $blue}
+  &-purple {background : $purple}
+  &-orange {background : $orange}
+  &-sky {background : $sky}
+  &-gray {background : $gray}
+  &-red {background : $red}
+  &-yellow {background : $yellow}
+  &-dark-gray {background : $dark-gray}
+  &-green {background : $green}
+  &-success {background : rgba($color: $green, $alpha: .15)}
+  &-error {background : rgba($color: $red, $alpha: .15)}
+}
+
+button:focus, a:focus{
+  outline: none;
+} 
