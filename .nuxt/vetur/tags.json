@@ -1,0 +1,68 @@
+{
+  "Appbar": {
+    "description": "Auto imported from components/Appbar.vue"
+  },
+  "Breadcrumbs": {
+    "description": "Auto imported from components/Breadcrumbs.vue"
+  },
+  "CardListStatusEdo": {
+    "description": "Auto imported from components/CardListStatusEdo.vue"
+  },
+  "CardSecondaryStatusEdo": {
+    "description": "Auto imported from components/CardSecondaryStatusEdo.vue"
+  },
+  "CardStatusEdo": {
+    "description": "Auto imported from components/CardStatusEdo.vue"
+  },
+  "DialogHouseBlNumber": {
+    "description": "Auto imported from components/DialogHouseBlNumber.vue"
+  },
+  "DialogOnHold": {
+    "description": "Auto imported from components/DialogOnHold.vue"
+  },
+  "DialogRejectionEdo": {
+    "description": "Auto imported from components/DialogRejectionEdo.vue"
+  },
+  "DrawerDasboardScl": {
+    "description": "Auto imported from components/DrawerDasboardScl.vue"
+  },
+  "InputEdo": {
+    "description": "Auto imported from components/InputEdo.vue"
+  },
+  "Invoice": {
+    "description": "Auto imported from components/Invoice.vue"
+  },
+  "ScanEdo": {
+    "description": "Auto imported from components/ScanEdo.vue"
+  },
+  "BaseAlert": {
+    "description": "Auto imported from components/Base/Alert.vue"
+  },
+  "BaseButton": {
+    "description": "Auto imported from components/Base/Button.vue"
+  },
+  "BaseModal": {
+    "description": "Auto imported from components/Base/Modal.vue"
+  },
+  "ChartsChart": {
+    "description": "Auto imported from components/charts/chart.vue"
+  },
+  "FormsCreateEdo": {
+    "description": "Auto imported from components/forms/CreateEdo.vue"
+  },
+  "FormsEditEdo": {
+    "description": "Auto imported from components/forms/EditEdo.vue"
+  },
+  "FormsMasterConsignee": {
+    "description": "Auto imported from components/forms/master/Consignee.vue"
+  },
+  "FormsMasterFinalDestination": {
+    "description": "Auto imported from components/forms/master/FinalDestination.vue"
+  },
+  "FormsMasterPortOfDischarge": {
+    "description": "Auto imported from components/forms/master/PortOfDischarge.vue"
+  },
+  "FormsMasterPortOfLoading": {
+    "description": "Auto imported from components/forms/master/PortOfLoading.vue"
+  }
+}

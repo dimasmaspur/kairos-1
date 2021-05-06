@@ -1,0 +1,290 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "dokumen",
+    "path": "/dokumen",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\dokumen\\\\index.vue",
+    "chunkName": "pages/dokumen/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\logout.vue",
+    "chunkName": "pages/logout"
+  },
+  {
+    "name": "marketing",
+    "path": "/marketing",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\marketing\\\\index.vue",
+    "chunkName": "pages/marketing/index"
+  },
+  {
+    "name": "setting",
+    "path": "/setting",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\setting.vue",
+    "chunkName": "pages/setting"
+  },
+  {
+    "name": "spl",
+    "path": "/spl",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\index.vue",
+    "chunkName": "pages/spl/index"
+  },
+  {
+    "name": "superadmin",
+    "path": "/superadmin",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\superadmin\\\\index.vue",
+    "chunkName": "pages/superadmin/index"
+  },
+  {
+    "name": "supervisor",
+    "path": "/supervisor",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\supervisor\\\\index.vue",
+    "chunkName": "pages/supervisor/index"
+  },
+  {
+    "name": "admin-e-do",
+    "path": "/admin/e-do",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\e-do\\\\index.vue",
+    "chunkName": "pages/admin/e-do/index"
+  },
+  {
+    "name": "admin-jo",
+    "path": "/admin/jo",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\index.vue",
+    "chunkName": "pages/admin/jo/index"
+  },
+  {
+    "name": "admin-joc",
+    "path": "/admin/joc",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\index.vue",
+    "chunkName": "pages/admin/joc/index"
+  },
+  {
+    "name": "dokumen-e-do",
+    "path": "/dokumen/e-do",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\dokumen\\\\e-do\\\\index.vue",
+    "chunkName": "pages/dokumen/e-do/index"
+  },
+  {
+    "name": "marketing-quotation",
+    "path": "/marketing/quotation",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\marketing\\\\quotation\\\\index.vue",
+    "chunkName": "pages/marketing/quotation/index"
+  },
+  {
+    "name": "spl-admin",
+    "path": "/spl/admin",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\admin\\\\index.vue",
+    "chunkName": "pages/spl/admin/index"
+  },
+  {
+    "name": "spl-kasir",
+    "path": "/spl/kasir",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\kasir\\\\index.vue",
+    "chunkName": "pages/spl/kasir/index"
+  },
+  {
+    "name": "spl-setting",
+    "path": "/spl/setting",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\setting.vue",
+    "chunkName": "pages/spl/setting"
+  },
+  {
+    "name": "superadmin-user-management",
+    "path": "/superadmin/user-management",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\superadmin\\\\user-management\\\\index.vue",
+    "chunkName": "pages/superadmin/user-management/index"
+  },
+  {
+    "name": "supervisor-e-do",
+    "path": "/supervisor/e-do",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\supervisor\\\\e-do\\\\index.vue",
+    "chunkName": "pages/supervisor/e-do/index"
+  },
+  {
+    "name": "admin-jo-credit-noted",
+    "path": "/admin/jo/credit-noted",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\credit-noted\\\\index.vue",
+    "chunkName": "pages/admin/jo/credit-noted/index"
+  },
+  {
+    "name": "admin-jo-debit-noted",
+    "path": "/admin/jo/debit-noted",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\debit-noted\\\\index.vue",
+    "chunkName": "pages/admin/jo/debit-noted/index"
+  },
+  {
+    "name": "admin-jo-pay-request",
+    "path": "/admin/jo/pay-request",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\pay-request\\\\index.vue",
+    "chunkName": "pages/admin/jo/pay-request/index"
+  },
+  {
+    "name": "admin-joc-add-jo",
+    "path": "/admin/joc/add-jo",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\add-jo\\\\index.vue",
+    "chunkName": "pages/admin/joc/add-jo/index"
+  },
+  {
+    "name": "admin-joc-create",
+    "path": "/admin/joc/create",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\create.vue",
+    "chunkName": "pages/admin/joc/create"
+  },
+  {
+    "name": "admin-joc-pay-request",
+    "path": "/admin/joc/pay-request",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\pay-request\\\\index.vue",
+    "chunkName": "pages/admin/joc/pay-request/index"
+  },
+  {
+    "name": "admin-joc-rebate-expense",
+    "path": "/admin/joc/rebate-expense",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\rebate-expense\\\\index.vue",
+    "chunkName": "pages/admin/joc/rebate-expense/index"
+  },
+  {
+    "name": "admin-joc-rebate-income",
+    "path": "/admin/joc/rebate-income",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\rebate-income\\\\index.vue",
+    "chunkName": "pages/admin/joc/rebate-income/index"
+  },
+  {
+    "name": "dokumen-e-do-create",
+    "path": "/dokumen/e-do/create",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\dokumen\\\\e-do\\\\create.vue",
+    "chunkName": "pages/dokumen/e-do/create"
+  },
+  {
+    "name": "spl-admin-e-do",
+    "path": "/spl/admin/e-do",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\admin\\\\e-do\\\\index.vue",
+    "chunkName": "pages/spl/admin/e-do/index"
+  },
+  {
+    "name": "spl-kasir-e-do",
+    "path": "/spl/kasir/e-do",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\kasir\\\\e-do\\\\index.vue",
+    "chunkName": "pages/spl/kasir/e-do/index"
+  },
+  {
+    "name": "superadmin-user-management-create",
+    "path": "/superadmin/user-management/create",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\superadmin\\\\user-management\\\\create.vue",
+    "chunkName": "pages/superadmin/user-management/create"
+  },
+  {
+    "name": "spl-admin-e-do-detail-id",
+    "path": "/spl/admin/e-do/detail/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\admin\\\\e-do\\\\detail\\\\_id.vue",
+    "chunkName": "pages/spl/admin/e-do/detail/_id"
+  },
+  {
+    "name": "spl-kasir-e-do-detail-id",
+    "path": "/spl/kasir/e-do/detail/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\spl\\\\kasir\\\\e-do\\\\detail\\\\_id.vue",
+    "chunkName": "pages/spl/kasir/e-do/detail/_id"
+  },
+  {
+    "name": "admin-e-do-detail-id",
+    "path": "/admin/e-do/detail/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\e-do\\\\detail\\\\_id.vue",
+    "chunkName": "pages/admin/e-do/detail/_id"
+  },
+  {
+    "name": "admin-jo-credit-noted-id_credit_note",
+    "path": "/admin/jo/credit-noted/:id_credit_note?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\credit-noted\\\\_id_credit_note.vue",
+    "chunkName": "pages/admin/jo/credit-noted/_id_credit_note"
+  },
+  {
+    "name": "admin-jo-debit-noted-id_debit_note",
+    "path": "/admin/jo/debit-noted/:id_debit_note?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\debit-noted\\\\_id_debit_note.vue",
+    "chunkName": "pages/admin/jo/debit-noted/_id_debit_note"
+  },
+  {
+    "name": "admin-jo-detail-id",
+    "path": "/admin/jo/detail/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\detail\\\\_id.vue",
+    "chunkName": "pages/admin/jo/detail/_id"
+  },
+  {
+    "name": "admin-jo-pay-request-id_payrequest",
+    "path": "/admin/jo/pay-request/:id_payrequest?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\pay-request\\\\_id_payrequest.vue",
+    "chunkName": "pages/admin/jo/pay-request/_id_payrequest"
+  },
+  {
+    "name": "admin-joc-data-id",
+    "path": "/admin/joc/data/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\data\\\\_id.vue",
+    "chunkName": "pages/admin/joc/data/_id"
+  },
+  {
+    "name": "admin-joc-edit-id",
+    "path": "/admin/joc/edit/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/joc/edit/_id"
+  },
+  {
+    "name": "admin-joc-pay-request-id",
+    "path": "/admin/joc/pay-request/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\pay-request\\\\_id.vue",
+    "chunkName": "pages/admin/joc/pay-request/_id"
+  },
+  {
+    "name": "admin-joc-rebate-expense-id",
+    "path": "/admin/joc/rebate-expense/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\rebate-expense\\\\_id.vue",
+    "chunkName": "pages/admin/joc/rebate-expense/_id"
+  },
+  {
+    "name": "admin-joc-rebate-income-id",
+    "path": "/admin/joc/rebate-income/:id?",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\joc\\\\rebate-income\\\\_id.vue",
+    "chunkName": "pages/admin/joc/rebate-income/_id"
+  },
+  {
+    "name": "dokumen-e-do-detail-id",
+    "path": "/dokumen/e-do/detail/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\dokumen\\\\e-do\\\\detail\\\\_id.vue",
+    "chunkName": "pages/dokumen/e-do/detail/_id"
+  },
+  {
+    "name": "dokumen-e-do-edit-id",
+    "path": "/dokumen/e-do/edit/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\dokumen\\\\e-do\\\\edit\\\\_id.vue",
+    "chunkName": "pages/dokumen/e-do/edit/_id"
+  },
+  {
+    "name": "supervisor-e-do-detail-id",
+    "path": "/supervisor/e-do/detail/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\supervisor\\\\e-do\\\\detail\\\\_id.vue",
+    "chunkName": "pages/supervisor/e-do/detail/_id"
+  },
+  {
+    "name": "admin-jo-id",
+    "path": "/admin/jo/:id",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\admin\\\\jo\\\\_id.vue",
+    "chunkName": "pages/admin/jo/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\erick\\\\Documents\\\\Clevara\\\\Backup\\\\kairos\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
